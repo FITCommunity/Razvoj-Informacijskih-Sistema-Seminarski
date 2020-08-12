@@ -4,3 +4,4 @@
 
 ![fit-logo](.assets/fit-logo.jpg)
 
+* [2019×2020](./Seminarski/2019×2020/README.md)
