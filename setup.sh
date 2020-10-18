@@ -13,4 +13,3 @@ else
 
   echo "* [$1](./Seminarski/$1/README.md)" >> README.md
 fi
-
