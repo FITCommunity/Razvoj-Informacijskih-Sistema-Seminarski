@@ -10,3 +10,4 @@
 * [2018×2019](./Seminarski/2018×2019/README.md)
 * [2016×2017](./Seminarski/2016×2017/README.md)
 * [2009×2010](./Seminarski/2009×2010/README.md)
+* [2021×2022](./Seminarski/2021×2022/README.md)
